@@ -1,7 +1,7 @@
 ﻿using System.Globalization;
 
 namespace OrientacaoObjetos;
-public abstract class Colaborador
+public class Colaborador
 {
     // Atributos
     public string? Nome { get; set; }
@@ -19,9 +19,9 @@ public abstract class Colaborador
     }
 
     // Metodos
-    public virtual string Bonificacao() // Adicionado virtual para usar metodos override em classes filhas
+    public virtual double Bonificacao() // Adicionado virtual para usar metodos override em classes filhas
     {
-        return "Sua bonificacao é de : " + Salario.ToString("F2", CultureInfo.InvariantCulture);
+        return Salario;
     }
 
 }

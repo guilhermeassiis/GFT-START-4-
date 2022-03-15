@@ -13,8 +13,10 @@ public class Program
         Vendedor vendedor = new Vendedor("Guilherme", 22, 1600.00, 2);
 
         // Chamando o metodo Bonificacao
-        Console.WriteLine(gerente.Bonificacao());
-        Console.WriteLine(supervisor.Bonificacao());
-        Console.WriteLine(vendedor.Bonificacao());
+        Console.WriteLine(gerente);
+        Console.WriteLine();
+        Console.WriteLine(supervisor);
+        Console.WriteLine();
+        Console.WriteLine(vendedor);
     }
 }

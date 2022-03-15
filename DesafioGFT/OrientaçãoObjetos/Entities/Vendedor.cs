@@ -9,8 +9,15 @@ public class Vendedor : Colaborador
     {
     }
     // Metodo Bonificacao
-    public override string Bonificacao()
+    public override double Bonificacao()
     {
-        return "Sua bonificação é de: " + (Salario + (300.00 * grauInstrucao * 4)).ToString("F2", CultureInfo.InvariantCulture);
+        return (Salario + (300.00 * grauInstrucao * 4));
+    }
+    public override string ToString()
+    {
+        return "Nome: " + Nome + "\n" +
+               "Idade: " + Idade + "\n" +
+               "Salario: " + Salario + "\n" +
+               "Bonificação: " + this.Bonificacao().ToString("F2", CultureInfo.InvariantCulture); ;
     }
 }

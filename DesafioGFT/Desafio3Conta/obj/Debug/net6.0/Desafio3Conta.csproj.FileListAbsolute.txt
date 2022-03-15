@@ -1,0 +1,15 @@
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\Desafio3Conta\bin\Debug\net6.0\Desafio3Conta.exe
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\Desafio3Conta\bin\Debug\net6.0\Desafio3Conta.deps.json
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\Desafio3Conta\bin\Debug\net6.0\Desafio3Conta.runtimeconfig.json
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\Desafio3Conta\bin\Debug\net6.0\Desafio3Conta.dll
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\Desafio3Conta\bin\Debug\net6.0\Desafio3Conta.pdb
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\Desafio3Conta\obj\Debug\net6.0\Desafio3Conta.csproj.AssemblyReference.cache
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\Desafio3Conta\obj\Debug\net6.0\Desafio3Conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\Desafio3Conta\obj\Debug\net6.0\Desafio3Conta.AssemblyInfoInputs.cache
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\Desafio3Conta\obj\Debug\net6.0\Desafio3Conta.AssemblyInfo.cs
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\Desafio3Conta\obj\Debug\net6.0\Desafio3Conta.csproj.CoreCompileInputs.cache
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\Desafio3Conta\obj\Debug\net6.0\Desafio3Conta.dll
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\Desafio3Conta\obj\Debug\net6.0\refint\Desafio3Conta.dll
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\Desafio3Conta\obj\Debug\net6.0\Desafio3Conta.pdb
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\Desafio3Conta\obj\Debug\net6.0\Desafio3Conta.genruntimeconfig.cache
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\Desafio3Conta\obj\Debug\net6.0\ref\Desafio3Conta.dll
