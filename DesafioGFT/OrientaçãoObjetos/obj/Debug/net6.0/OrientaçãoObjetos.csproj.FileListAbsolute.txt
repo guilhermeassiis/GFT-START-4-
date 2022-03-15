@@ -1,0 +1,15 @@
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\OrientaçãoObjetos\obj\Debug\net6.0\OrientaçãoObjetos.csproj.AssemblyReference.cache
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\OrientaçãoObjetos\obj\Debug\net6.0\OrientaçãoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\OrientaçãoObjetos\obj\Debug\net6.0\OrientaçãoObjetos.AssemblyInfoInputs.cache
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\OrientaçãoObjetos\obj\Debug\net6.0\OrientaçãoObjetos.AssemblyInfo.cs
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\OrientaçãoObjetos\obj\Debug\net6.0\OrientaçãoObjetos.csproj.CoreCompileInputs.cache
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\OrientaçãoObjetos\bin\Debug\net6.0\OrientaçãoObjetos.exe
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\OrientaçãoObjetos\bin\Debug\net6.0\OrientaçãoObjetos.deps.json
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\OrientaçãoObjetos\bin\Debug\net6.0\OrientaçãoObjetos.runtimeconfig.json
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\OrientaçãoObjetos\bin\Debug\net6.0\OrientaçãoObjetos.dll
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\OrientaçãoObjetos\bin\Debug\net6.0\OrientaçãoObjetos.pdb
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\OrientaçãoObjetos\obj\Debug\net6.0\OrientaçãoObjetos.dll
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\OrientaçãoObjetos\obj\Debug\net6.0\refint\OrientaçãoObjetos.dll
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\OrientaçãoObjetos\obj\Debug\net6.0\OrientaçãoObjetos.pdb
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\OrientaçãoObjetos\obj\Debug\net6.0\OrientaçãoObjetos.genruntimeconfig.cache
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\OrientaçãoObjetos\obj\Debug\net6.0\ref\OrientaçãoObjetos.dll

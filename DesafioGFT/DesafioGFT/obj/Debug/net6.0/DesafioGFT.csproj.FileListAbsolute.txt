@@ -1,0 +1,15 @@
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\DesafioGFT\bin\Debug\net6.0\DesafioGFT.exe
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\DesafioGFT\bin\Debug\net6.0\DesafioGFT.deps.json
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\DesafioGFT\bin\Debug\net6.0\DesafioGFT.runtimeconfig.json
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\DesafioGFT\bin\Debug\net6.0\DesafioGFT.dll
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\DesafioGFT\bin\Debug\net6.0\DesafioGFT.pdb
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\DesafioGFT\obj\Debug\net6.0\DesafioGFT.csproj.AssemblyReference.cache
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\DesafioGFT\obj\Debug\net6.0\DesafioGFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\DesafioGFT\obj\Debug\net6.0\DesafioGFT.AssemblyInfoInputs.cache
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\DesafioGFT\obj\Debug\net6.0\DesafioGFT.AssemblyInfo.cs
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\DesafioGFT\obj\Debug\net6.0\DesafioGFT.csproj.CoreCompileInputs.cache
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\DesafioGFT\obj\Debug\net6.0\DesafioGFT.dll
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\DesafioGFT\obj\Debug\net6.0\refint\DesafioGFT.dll
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\DesafioGFT\obj\Debug\net6.0\DesafioGFT.pdb
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\DesafioGFT\obj\Debug\net6.0\DesafioGFT.genruntimeconfig.cache
+C:\Users\assis\OneDrive\Documentos\DSKP\codes\GFT\GFT-START-4-\DesafioGFT\DesafioGFT\obj\Debug\net6.0\ref\DesafioGFT.dll
